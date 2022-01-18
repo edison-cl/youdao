@@ -12,6 +12,8 @@
     2. cargo build --release (可能需要安装某些依赖,例如openssl,pkg-config)
     3. ./youdao {你想翻译的内容, 中英文都可以}
 
+方案二:
+    到[release](https://github.com/edison-cl/youdao/releases)下载开箱即用
 ```
 > 第一次使用后程序会自动添加到软链接, 往后使用只需输入youdao即可
 > 本项目未适配window!
