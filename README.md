@@ -12,4 +12,6 @@
     3. ./youdao {你想翻译的内容, 中英文都可以}
 ```
 > 第一次使用后程序会自动添加到软链接, 往后使用只需输入youdao即可
+
+
 ![snipaste.png](https://github.com/edison-cl/youdao/blob/master/Snipaste.jpg?raw=true)
